@@ -1,0 +1,142 @@
+.div1{
+    height: 20vh;
+    width: 50%;
+    float: left;
+    padding-left: 2%;
+    background-color: white;
+    position: relative;
+    
+    
+}
+.div2{
+    height: 20vh;
+    width: 50%;
+    float: left;
+    padding: 20px;
+    margin: auto;
+    background-color: white;
+    position: relative;
+}
+.a{
+    
+    font-size: 20px;
+    
+    
+}
+.b{
+   padding: 10px;
+   font-size: 20px;
+}
+.c{
+    padding: 10px;
+    font-size: 20px;
+}
+.d{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.cam{
+    height: 100vh;
+    width: 100%;
+    background-image: url(camera.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.div3{
+    height: 100vh;
+    width: 50%;
+    float: left;
+    position: relative;
+}
+.cct{
+    width: 100%;
+    height: 90vh;
+    z-index: 1 ;
+}
+.div4{
+    height: 100vh;
+    width: 50%;
+    float: left;
+    position: relative;
+}
+.fac{
+    height: 8vh;
+    padding-left: 43%;
+}
+.ins{
+    height: 8vh;
+}
+.logo{
+    height: 10vh;
+    position: fixed;
+    top: 90%;
+    left: 94%;
+    z-index: 1;
+    ;
+}
+.div5{
+    height: 115vh;
+    width: 100%;
+    padding-left: 12%;
+    position: relative;
+    padding-right: 12%;
+    font-size: larger;
+    text-align: center;
+
+   
+}
+.card{
+    width: 80%;
+    height: 70vh;
+}
+.bu{
+    background-color: darkblue;
+    width: 100%;
+    margin-top: 20%;
+    height: 7vh;
+    font-weight: 600;
+    color: white;
+    
+}
+.bu:hover{
+    background-color: lightslategray;
+}
+.bn2{
+    width: 12%;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 7vh;
+    background-color: black;
+    color: white;
+}
+.bn2:hover{
+    background-color: darkblue;
+    border: 2px solid darkblue;
+}
+.bn1{
+    width: 12%;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    height: 7vh;
+    background-color: darkblue;
+    color: white;
+    
+}
+.bn1:hover{
+    background-color: black;
+    border: 2px solid black;
+}
+.bn3{
+    width: 33%;
+    height: 6vh;
+    background-color: rgb(44, 115, 214);
+    margin-top: 2%;
+    border: 2px solid  rgb(44, 115, 214);
+    border-radius: 5px;
+}
+.bn3:hover{
+    background-color: black;
+    border: 2px solid black;
+}
